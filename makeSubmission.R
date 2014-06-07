@@ -1,3 +1,5 @@
+#Rank 29th
+
 # Kaggle Walmart recruiting competition 2014-02-20 to 2014-05-05.
 # Michael Kim (mikeskim  AT  g m a i l  DOT c o m)
 # https://www.kaggle.com/users/64626/mike-kim
